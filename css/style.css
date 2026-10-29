@@ -1366,6 +1366,7 @@
     	margin-top: 6px;
     	clear: both;
     	display: block;
+		font-size: 11px;
 	}
 	.comment .comment-body {
     	width: 240px;
@@ -1410,3 +1411,4 @@
 	}
 
 }
+
